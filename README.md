@@ -4,4 +4,4 @@ This is an example of how [actions-phpunit](https://github.com/AltThree/actions-
 
 ## License
 
-Test
+Test2
